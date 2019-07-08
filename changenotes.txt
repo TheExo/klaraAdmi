@@ -1,0 +1,11 @@
+NOCH ZU ÄNDERN:
+
+    DASHBOARD
+
+    1. Kleines Infoicon neben den Fehleranzeigen, wenn man draufklickt wird erklärt wie man den Fehler behebt.
+    2. Artikel mit Fehlern werden als Verlinkung aufgelistet, klickt man drauf -> zum Artikel hin
+    3. Kleine Widgets auf dem Dashboard welche anzeigen z. B. wieviele Besucher heute auf der Seite waren, was die 
+       meistbesuchteste Rubrik ist etc.
+    4. Beim Erstellen eines Artikels, Bildes etc. soll an der Seite der Navigatorr eingeblendet sein (8-4 Verhältnis)
+
+    
